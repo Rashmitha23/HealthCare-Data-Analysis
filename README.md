@@ -2,7 +2,7 @@
 
 # 🚑📊 Healthcare Data Analysis with Power BI  
 
-**Healthcare Data Analysis Dashboard** built using **Excel**, **Power Query**, and **Power BI**! 🏥 These dashboards provide insights into **hospital performance** 📈 and **patient details** 🩺, transforming raw data into actionable insights to optimize operations, streamline care, and support informed decision-making. 💡✨  
+**Healthcare Data Analysis Dashboard** built using **Excel**, **Power Query**, and **Power BI**! 🏥 These dashboards provide insights into **hospital performance** 📈 and **patient details** 🩺, transforming raw data into actionable insights to optimize operations, streamline care, and support informed decision-making. 💡✨   
 
 ---
 
